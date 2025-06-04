@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greetings_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greetings.js */ \"./src/greetings.js\");\n\r\n\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayHello)(`Cassandraa`));\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayGoodbye)(`Cassandraa`));\r\n\n\n//# sourceURL=webpack://webpack-intro/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greetings_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greetings.js */ \"./src/greetings.js\");\n\r\n\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayHello)(`Cassandraa it's a greate day to Code!`));\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayHello)(`It's a greate day to Code!`));\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayGoodbye)(`Cassandraa I love to Code when I know what Iam doing. Some of the time!`));\r\nconsole.log((0,_greetings_js__WEBPACK_IMPORTED_MODULE_0__.sayGoodbye)(`I love to Code when I know what Iam doing. Some of the time!`));\r\n\n\n//# sourceURL=webpack://webpack-intro/./src/index.js?");
 
 /***/ })
 
